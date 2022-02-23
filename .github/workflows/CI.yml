@@ -42,4 +42,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Skip CI 🚫
-        run: echo skip ci
+        run: echo "skip ci"
